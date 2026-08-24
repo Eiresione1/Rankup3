@@ -1,4 +1,5 @@
 name: Rankup
+description: Rank and prestige progression for Minecraft 26.2
 version: "${version}"
 main: sh.okx.rankup.RankupPlugin
 author: Okx
