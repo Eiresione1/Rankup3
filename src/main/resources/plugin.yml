@@ -2,6 +2,7 @@ name: Rankup
 version: "${version}"
 main: sh.okx.rankup.RankupPlugin
 author: Okx
+website: https://github.com/Eiresione1/Rankup3
 depend: [Vault]
 softdepend: [PlaceholderAPI, mcMMO, AdvancedAchievements, Towny, SuperbVote, VotingPlugin, LuckPerms]
 api-version: '26.2'
