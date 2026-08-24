@@ -59,3 +59,8 @@ not-high-enough:
 not-in-ladder: 
 invalid-rankup: 
 ```
+
+
+## Compatibility
+
+Rankup 3.15.4 targets Minecraft/Paper 26.2 and requires Java 25.
